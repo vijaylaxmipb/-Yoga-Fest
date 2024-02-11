@@ -21,6 +21,10 @@ header {
     background-color: lightcoral;
 }
 
+h1 {
+    font-family: 'Poppins',sans-serif;
+}
+
 /*Main content*/
 main {
     background-color: lightblue;
