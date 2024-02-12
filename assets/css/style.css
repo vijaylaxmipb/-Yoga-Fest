@@ -95,3 +95,24 @@ main {
 footer {
     background-color:green;
 }
+
+/*Media query:tablets (768px and up)*/
+@media screen and (min-width:768px) {
+    /*Header*/
+    nav {
+        display:block;
+        position: relative;
+        width: fit-content;
+        padding-right: 1rem;
+    }
+    #menu {
+        display: flex;
+        padding-left: 1rem;
+    }
+    #menu > li {
+        padding-left: 2rem;
+    }
+    .nav-toggle-label {
+        display:none;
+    }
+}
