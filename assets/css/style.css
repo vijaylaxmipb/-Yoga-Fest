@@ -1,6 +1,8 @@
-/*Asterisk wildcard selector to override default added by the browser*/
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;0,700;1,400&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&display=swap')
+
+/*Asterisk wildcard selector to override default added by the browser*/
 * {
     padding:0;
     margin:0;
@@ -18,11 +20,67 @@ body {
 
 /*Header*/
 header {
-    background-color: lightcoral;
+    background-color: whitesmoke;
+    padding: 0 1rem;
+    position: fixed;
+    width: 100%;
+    z-index: 99;
+    box-shadow: 0 1px 1px gray;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+header a {
+    text-decoration: navajowhite;
+    color: aliceblue;
 }
 
 h1 {
     font-family: 'Poppins',sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #252525;
+
+}
+
+#menu {
+    font-size: 100%;
+    letter-spacing: 3px;
+    list-style-type: none;
+}
+
+#menu >li {
+    margin-bottom: 1em;
+}
+
+.active {
+    border-bottom: 1px solid gray;
+}
+
+/* Navbar styles with dropdown toggle */
+nav {
+    position: absolute;
+    background-color: #ffffff;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: 0 2px 2px #3a3a3a;
+    display: none;
+    top: 100%;
+}
+
+/* Nav toggle */
+#nav-toggle:checked~nav {
+    display: block;
+}
+
+#nav-toggle {
+    display: none;
+}
+
+.nav-toggle-label {
+    font-size: 2rem;
 }
 
 /*Main content*/
@@ -30,6 +88,7 @@ main {
     background-color: lightblue;
     /*main element take up*/
     flex: 1 0 auto;
+    margin-top: 45px;
 }
 
 /*Footer*/
