@@ -25,7 +25,9 @@ header {
     position: fixed;
     width: 100%;
     box-shadow: 0 2px 2px hsl(0, 41%, 63%);
-     
+    display:flex ;
+    justify-content: space-between;
+    align-items: baseline;
 }
 
 header a {
@@ -59,11 +61,17 @@ nav {
     position: absolute;
     background-color: #ffffff;
     width:100%;
-    left:0;
+    left: 0;
     padding: 0 1rem;
-    box-shadow: 0 1px 1px #3a3a3a;
+    box-shadow: 0 1px 1px #c47c7c;
     display: none;
+    top: 100%;
 
+}
+
+/*nav toggle*/
+#nav-toggle:checked~nav {
+    display: block;
 }
 
 
