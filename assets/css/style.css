@@ -21,7 +21,7 @@ body {
 
 /* Header */
 header {
-    background-color: #ffffff;
+    background-color: lightpink;
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
@@ -41,7 +41,7 @@ h1 {
     font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: #252525;
+    color: dodgerblue;
 }
 
 #menu {
@@ -85,7 +85,7 @@ nav {
 
 /* Main content */
 main {
-    background-color: lightblue;
+    background-color:lightsalmon;
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
     margin-top: 50px;
