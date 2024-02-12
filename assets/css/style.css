@@ -126,3 +126,11 @@ footer {
         margin-top: 85px;
     }
 }
+
+/*media query laptop and desktop 1080 px and up*/
+@media screen and (min-width: 1080px){
+    #menu a:hover {
+        border-bottom: 1px solid gray;
+    }
+    
+}
