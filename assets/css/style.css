@@ -85,10 +85,16 @@ nav {
 
 /* Main content */
 main {
-    background-color:lightsalmon;
-    /* Make main element take up any surplus space to push footer down */
+
     flex: 1 0 auto;
     margin-top: 50px;
+}
+/*Hero section*/
+#hero {
+    background: url("../images/Group\ of\ people\ in\ park.jpg") no-repeat center center/cover;
+    height: 700px;
+    width: 100%;
+    
 }
 
 /* Footer */
