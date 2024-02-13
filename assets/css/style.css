@@ -138,26 +138,25 @@ main {
 }
 
 #event {
-    background-color: moccasin;
+    background-color:rgb(110, 88, 88);
 }
 #event p {
     display: flex;
     flex-direction: row;
 }
 #where {
-    background-color:moccasin;
+    background-color:rgb(102, 85, 85);
 }
 #where p {
     display: flex;
     flex-direction: row;
 }
-#benefits {
-    background-color:moccasin;
-}
-#benefits p {
+#yoga-image {
+    background-color:#fafafa;
     display: flex;
     flex-direction: row;
 }
+
 
 
 /* Footer */
