@@ -23,6 +23,10 @@ h1, h2, h3{
     letter-spacing: 2px;
     color:black;
 }
+h4{
+   font-family: Arial,sans-serif; 
+   color: khaki;
+}
 
 
 
