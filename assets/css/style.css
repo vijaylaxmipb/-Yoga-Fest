@@ -98,6 +98,8 @@ main {
     height: 700px;
     width: 100%;
     position: relative;
+    column-gap: 0;
+
 }
 
 #home-text {
@@ -165,6 +167,15 @@ main {
     flex-direction: row;
 }
 
+/* Gallery page-refered love running project */
+
+#yoga-photos img {
+    width: 100%;
+    line-height: 16px;
+}
+#yoga-photos {
+    line-height: 0;
+}
 
 
 /* Footer */
@@ -180,6 +191,14 @@ main {
     font-size: 160%;
     padding: 4%;
     color: black;
+}
+
+/* Media query: large or landscape phones (576px and up) */
+@media screen and (min-width: 576px) {
+    #yoga-photos {
+        column-count: 2;
+        column-gap: 0;
+    }
 }
 
 /*Media query:tablets (768px and up)*/
@@ -216,12 +235,20 @@ main {
     main {
         margin-top: 5px;
     }
+    /*gallery*/
+    #yoga-photos {
+        column-count: 3;
+    }
 }
 
 /*media query laptop and desktop 992 px and up*/
 @media screen and (min-width: 992px){
     #menu a:hover {
         border-bottom: 2px solid gray;
+    }
+    /*gallery*/
+    #yoga-photos {
+        column-count: 4;
     }
     
 }
