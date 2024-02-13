@@ -13,7 +13,6 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    /* Generic project styles */
     color: #3a3a3a;
     font-family: 'Lato', sans-serif;
 }
@@ -26,12 +25,13 @@ h1, h2, h3{
 }
 
 
+
 /* Header */
 header {
     background-color: lightpink;
     padding: 0 1rem;
-    position: fixed;
-    z-index: 99;
+    position:relative;
+    z-index: 100;
     width: 100%;
     box-shadow: 0 2px 2px #3a3a3a;
     display: flex;
@@ -44,12 +44,6 @@ header a {
     color: inherit;
 }
 
-
-.container {
-    width: 100%;
-    max-width: 1080px;
-    margin: 0 auto;
-}
 
 
 
@@ -70,11 +64,10 @@ header a {
 /* Navbar styles with dropdown toggle */
 nav {
     position: absolute;
-    background-color:white;
+    background-color:lightpink;
     width: 100%;
     left: 0;
     padding: 0 2rem;
-    box-shadow: 0 2px 2px black;
     display: none;
     top: 100%;
 }
@@ -109,15 +102,18 @@ main {
 
 #home-text {
   
-    background-color: rgba(247, 20, 35, 0.74);
-    font-size: 120%;
+    background-color: rgba(155, 62, 68, 0.74);
+    font-size: 180%;
     position: absolute;
-    bottom: 30px;
-    width: 60%;
+    bottom: 20px;
+    width: 50%;
     min-height: 200px;
     padding-top: 40px;
-    padding-left: 10px;
+    padding-left: 20px;
 
+}
+#home-text h2,h3 {
+    color: mintcream;
 }
 
 
@@ -132,7 +128,6 @@ main {
 
 #yoga-fest-event div {
     color: #fafafa;
-    padding: 1rem 1.5rem;
     flex-basis: 100px;
     flex-grow: 1;
     border: 1px solid white;
@@ -140,23 +135,29 @@ main {
 }
 
 #yoga-fest-event h2 {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
     text-align: center;
 }
 
 #event {
-    background-color:rgb(110, 88, 88);
+    background-color:rgb(196, 88, 69);
 }
 #event p {
     display: flex;
     flex-direction: row;
+    font-size: larger;
+    color:whitesmoke;
 }
+
 #where {
-    background-color:rgb(102, 85, 85);
+    background-color:rgb(196, 88, 69);
 }
 #where p {
     display: flex;
     flex-direction: row;
+    font-size:larger;
+    color:whitesmoke;
 }
 #yoga-image {
     background-color:#fafafa;
@@ -185,10 +186,10 @@ main {
 @media screen and (min-width:768px) {
     /*Header*/
     nav {
-        display:contents;
+        display:block;
         position: relative;
         width: fit-content;
-        padding-right: 1rem;
+        padding-right: .5rem;
     }
     #menu {
         display: flex;
@@ -202,11 +203,14 @@ main {
     }
 
     #logo {
-        font-size: 45px;
+        font-size: 240%;
         line-height: 80px;
         margin: 0 .2rem;
+    
     }
-   
+    #logo a {
+        width:100% ;
+    }
 
     /*main content*/
     main {
