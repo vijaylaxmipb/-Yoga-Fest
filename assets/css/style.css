@@ -129,6 +129,7 @@ main {
     border-radius: 2px;
     padding: 0 5px;
 }
+
 /*Hero section*/
 #hero {
 
@@ -205,7 +206,7 @@ main {
     flex-direction: row;
 }
 
-/* Gallery page-refered love running project */
+/* Gallery page-refered from  love running project */
 
 #yoga-photos img {
     width: 100%;
@@ -231,22 +232,28 @@ main {
     color: black;
 }
 
+/* Media query below 500 px */
+
+@media screen and (max-width: 500px) {
+    
+    #yoga-fest-event {
+        display:unset;
+        width: 100%;
+    }
+
+    #yoga-photos {
+        column-count: 1;
+        column-gap: 0;
+    }
+}
+
 /* Media query: large or landscape phones (576px and up) */
 @media screen and (min-width: 576px) {
     #yoga-photos {
         column-count: 2;
         column-gap: 0;
     }
-    #event p{
-        column-count: 1;
-        column-gap: 0;
-        
-    }
-    #where p{
-        column-count: 1;
-        column-gap: 0;
-
-    }
+    
 }
 
 /*Media query:tablets (768px and up)*/
@@ -289,7 +296,7 @@ main {
     }
 
 
-    /* Form */
+    /* Register Form */
     #register {
         background-position: center;
         position: relative;
@@ -304,6 +311,7 @@ main {
     .text-input:hover {
         border-color: #f16c6b;
     }
+    
 }
 
 /*media query laptop and desktop 992 px and up*/
