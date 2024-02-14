@@ -19,7 +19,7 @@ body {
 
 h1, h2, h3{
     font-family: 'Roboto', sans-serif;
-    text-transform: uppercase;
+    text-transform: lowercase;
     letter-spacing: 2px;
     color:black;
 }
@@ -49,8 +49,6 @@ header a {
 }
 
 
-
-
 #menu {
     font-size: 120%;
     letter-spacing: 2px;
@@ -59,6 +57,9 @@ header a {
 
 #menu > li {
     margin-bottom: .2em;
+}
+.fullimage {
+    width: 100%;;
 }
 
 .active {
@@ -92,8 +93,7 @@ nav {
 /* Main content */
 main {
     flex: 1 0 auto;
-    margin-top: 50px;
-
+    
     /*Enable flex properties*/
     display: flex;
     flex-direction: column;
@@ -144,11 +144,9 @@ main {
 #home-text {
   
     background-color: rgba(155, 62, 68, 0.74);
-    font-size: 180%;
-    position: absolute;
     bottom: 20px;
-    width: 50%;
-    min-height: 200px;
+    width: 66%;
+    min-height: 150px;
     padding-top: 40px;
     padding-left: 20px;
 
@@ -179,27 +177,20 @@ main {
     margin-bottom: 10px;
     margin-top: 10px;
     text-align: center;
+    font-style: italic;
 }
 
-#event {
+.where {
     background-color:rgb(196, 88, 69);
 }
-#event p {
+.where p {
     display: flex;
     flex-direction: row;
     font-size: larger;
     color:whitesmoke;
+    padding: 1rem;
 }
 
-#where {
-    background-color:rgb(196, 88, 69);
-}
-#where p {
-    display: flex;
-    flex-direction: row;
-    font-size:larger;
-    color:whitesmoke;
-}
 #yoga-image {
     background-color:#fafafa;
     display: flex;
@@ -287,6 +278,7 @@ main {
     }
 
     /*main content*/
+
     main {
         margin-top: 5px;
     }
