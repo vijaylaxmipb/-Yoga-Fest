@@ -19,7 +19,7 @@ body {
 
 h1, h2, h3{
     font-family: 'Roboto', sans-serif;
-    text-transform: lowercase;
+    text-transform:capitalize;
     letter-spacing: 2px;
     color:black;
 }
@@ -186,7 +186,7 @@ main {
 .where p {
     display: flex;
     flex-direction: row;
-    font-size: larger;
+    font-size: x-large;
     color:whitesmoke;
     padding: 1rem;
 }
