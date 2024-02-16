@@ -3,15 +3,15 @@ Milestone project one :Code Institute
 
 This is a yoga fest free event website that helps people to get motivated to do yoga indoor and outdoor for healthy life. The website includes information regarding event like dates,times and location.In this website timing place are provided and also gallery photos which help user to make decsion and register for the event.
 
-![mock-up](assets/images/Readme_md.PNG)
+![mock-up](assets/images/readme-amiresposive.PNG)
 
 ## Contents
-1.[Design](#design)
-2.[Features](#features)
-3.[UX](#ux)
-4.[Testing](#testing)
-5.[Sources](#sources)
-6.[Credits](#credits) 
+1. [Design](#design)
+2. [Features](#features)
+3. [UX](#ux)
+4. [Testing](#testing)
+5. [Sources](#sources)
+6. [Credits](#credits) 
 
 ## Design
 This site is created  for the yoga festival were the user can register and join the event.Inspired by the Love Running walkthrough project i built Yoga Fest website.
