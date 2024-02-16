@@ -56,10 +56,28 @@ The site has features of a static website.
 
     ![Home Page](assets/images/readme_homepage.PNG)
 
-    - **Gallery Page**
+- **Gallery Page**
 
-    - The information that site visitors will look for is listed in a clear, easy t
-    - The layout is vertical on smaller screens and horizontal to make use of the larger screens such as laptops.
+   - The gallery page contains pictures of yoga event.Pictures were used from Pexel and Freepik site.
+   - The layout is vertical on smaller screens and horizontal to make use of the larger screens such as laptops.
+
+   ![Gallery Page](assets/images/Readme_gallery.PNG)
+
+- **Register page**
+
+    - The register page encourages user to register and leave a comment if they need any information.
+    - The image on the register page helps to make the users smile as the image is a yogini posing with a smile in nature it greets user with calm welcome.
+
+   ![Register page](assets/images/Readme_register_page.PNG)
+
+- **Footer**
+    - The footer contains three icons which link to external social media pages.
+    - The links will open in new tabs to allow the user easy access to come back to the site.
+    - The footer is consitant throughout each page.
+
+    ![Footer](assets/images/Readme-Footer.PNG)
+
+
 
 
 
