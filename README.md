@@ -104,7 +104,10 @@ The site has features of a static website.
     - Solution: added the .inverted commas to alt ="".
     ![Validation test](assets/images/Readme_index_validation%20test.PNG)
 
-    
+    - CSS ([Jigsaw](https://jigsaw.w3.org/css-validator/))
+    - No errors found within the CSS
+    ![CSS Validation test](assets/images/Readme-CSS-Validation.PNG)
+
 
 
 
