@@ -5,16 +5,18 @@ This is a yoga fest free event website that helps people to get motivated to do 
 
 ![mock-up](assets/images/Readme_md.PNG)
 
-# Contents
-1.Design
-2.Features
-3.UX
-4.Testing
-5.Sources
-6.Credits
+## Contents
+1.[Design](#design)
+2.[Features](#features)
+3.[UX](#ux)
+4.[Testing](#testing)
+5.[Sources](#sources)
+6.[Credits](#credits) 
 
-# Design
+## Design
 This site is created  for the yoga festival were the user can register and join the event.Inspired by the Love Running walkthrough project i built Yoga Fest website.
 
-# Wireframe Designs
+### Wireframe Designs
 The wireframes were made with using balsamiq which helped visualise the website.
+![Wireframe for desktop](assets/images/Wireframe-desktop.PNG)
+![Wireframe for Mobile](assets/images/wireframe_mobil.PNG)
