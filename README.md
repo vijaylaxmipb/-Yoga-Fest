@@ -108,9 +108,23 @@ The site has features of a static website.
     - No errors found within the CSS
     ![CSS Validation test](assets/images/Readme-CSS-Validation.PNG)
 
+   - Performance, Accessibility, Best Practices, SEO (Lighthouse Chrome Dev Tools)
+    - Accessibility is at 94 which is what the focus was on.
+    - Performance is great at 98
+    - ![Lighthouse Rating](assets/images/Readme_Accessibility.png)
 
 
+   ### Browser Testing
+**Layout** Testing the layout and apperance for consistency throughout the website.
 
+**Functionality** Ensuring all links, navigation and form submit functions work as intended.
+
+| Browser   | Layout    | Functionality | 
+| :.......: | :.......: | :...........: |
+| Chrome    | ✔        | ✔             |
+| Edge      | ✔        | ✔             |
+| Firefox   | ✔        | ✔             |
+| Safari    | ✔        | ✔             |
 
 
 
