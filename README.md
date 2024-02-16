@@ -90,8 +90,16 @@ The site has features of a static website.
     ## Testing
     - I confirmed that the header and navbar are easily readable and understandable.
     - I have confirmed that this project is responsive and looks good on various common screen sizes by using the chrome devtools devices toolbar.
-    I have also confirmed that the form works and each field is required. There are also messages that pop up if a field is left blank or if it is filled incorrectly.
+    - I have also confirmed that the form works and each field is required. There are also messages that pop up if a field is left blank or if it is filled incorrectly.
     
+    ### Fixed Bugs
+    -Syntax error in the register.html section forget to put double quotes in the submit button this caused no pop up message if the field is submited without filling anything the First name,Last name,email field.
+
+    ### Unfixed Bugs
+    - None.
+    
+    ### Validation Testing
+   - HTML ([W3C Validator](https://validator.w3.org/))
 
 
 
