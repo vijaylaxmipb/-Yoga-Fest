@@ -30,7 +30,9 @@ The wireframes were made with using balsamiq which helped visualise the website.
 **Colours**The color used are lightpink,gray,#3a3a3a etc.The lightpink base colour was picked out to help give contrast to the hero image and most colors used are builtin colors.
 
 ### Images
-**Images:** The mosr of the images are used from Pexels and Freepik.
+**Images:** Most of the images are used from Pexels and Freepik website.
+[www.freepik.com](https://www.freepik.com)
+[www.pexels.com](https://www.pexels.com/)
 
 ## Features
 The site has features of a static website.
@@ -76,6 +78,20 @@ The site has features of a static website.
     - The footer is consitant throughout each page.
 
     ![Footer](assets/images/Readme-Footer.PNG)
+
+    ###  Potential Future Features
+     - add another page to include videos
+        Another page to include lifehack videos would improve the website and it would give the brain a break from reading.
+
+    ## UX
+    ### Site Goals
+    The site wants to attract people who want to learn yoga as a beginner and who do yoga indoors can come and do yoga in nature outdoors.
+
+    ## Testing
+    - I confirmed that the header and navbar are easily readable and understandable.
+    - I have confirmed that this project is responsive and looks good on various common screen sizes by using the chrome devtools devices toolbar.
+    I have also confirmed that the form works and each field is required. There are also messages that pop up if a field is left blank or if it is filled incorrectly.
+    
 
 
 
