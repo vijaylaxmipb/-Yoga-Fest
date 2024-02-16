@@ -44,5 +44,17 @@ The site has features of a static website.
  - The hero image was chosen as i wanted something with a yoga posture with natural background.The image make the users want to scroll down the home page.
  ![Hero Image](assets/images/Readme_hero_image.jpg)
 
+ - **Main Section**
+    - Headers on all pages to help TO give the content to the users on each page.
+    - Content in the home page,it describes about why yoga is necessary when and where the event is taking place.
+    - Information kept short to help the user find information quickly.
+
+- **Home page**
+
+    - The lightpink greets the user to give them a attractive,warm, calm welcome.
+    - The layout is vertical on smaller screens and horizontal to make use of the larger screens such as laptops.
+
+
+
 
 
