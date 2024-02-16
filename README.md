@@ -54,6 +54,13 @@ The site has features of a static website.
     - The lightpink greets the user to give them a attractive,warm, calm welcome.
     - The layout is vertical on smaller screens and horizontal to make use of the larger screens such as laptops.
 
+    ![Home Page](assets/images/readme_homepage.PNG)
+
+    - **Gallery Page**
+
+    - The information that site visitors will look for is listed in a clear, easy t
+    - The layout is vertical on smaller screens and horizontal to make use of the larger screens such as laptops.
+
 
 
 
