@@ -34,7 +34,7 @@ The wireframes were made with using balsamiq which helped visualise the website.
 
 ## Features
 The site has features of a static website.
- -**Nav Bar**
+- **Nav Bar**
     - The navigation bar is always visible on all pages. In the top right corner are Home,Gallery,Register.
     - The currently active page is underlined in the header.
     - Regardless of the screen format, the navigation bar is constant in one line while being spaced out.
@@ -42,7 +42,7 @@ The site has features of a static website.
 
  -**Hero Image**
  - The hero image was chosen as i wanted something with a yoga posture with natural background.The image make the users want to scroll down the home page.
- ![Hero Image](assets/images/Readme_hero_image.PNG.jpg)
- 
+ ![Hero Image](assets/images/Readme_hero_image.jpg)
+
 
 
