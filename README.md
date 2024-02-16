@@ -100,6 +100,12 @@ The site has features of a static website.
     
     ### Validation Testing
    - HTML ([W3C Validator](https://validator.w3.org/))
+    - 1 error found in the index page didn't used ""(inverted commas) in the img src,alt.I didnt closed the alt ="group of women outdoor fitness".
+    - Solution: added the .inverted commas to alt ="".
+    ![Validation test](assets/images/Readme_index_validation%20test.PNG)
+
+    
+
 
 
 
