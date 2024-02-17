@@ -129,6 +129,24 @@ The site has features of a static website.
     - Then on the right-hand side under "Environments" click on "github-pages"
     - Finally on the newly opened page, on the right-hand side, click on "View deployment"
 
+    ## Sources
+
+    - Love Running walk-through project for basic structures for the header and footer aswell as part of the css structure.
+    - Favicon was generated using [Favicon.io] (https://favicon.io/)
+    - All the Images taken from [Pexels.com] (https://pexels.com/) & [Freepik.com] (https://freepik.com/)
+    - Loto & Roboto fonts were used from [Google fonts](https://fonts.google.com/)
+    - The Structure of this README file from [Creepersguiter]] (https://github.com/creepersguitar/Codeinstitute-project-1)
+    - The wireframes were designed using [balsamiq.com](https://balsamiq.com/)
+
+
+
+    ## Credits
+
+   - This site was inspired by Love Runnign walkthrough project & many of pages have used code come from this.Without referring Love Running walkthrough prject from code institute would have been so difficult to produce or build Yoga Fest website.
+   - My mentor, Spencer Barribal, for his input.
+   -
+   
+
 
 
 
