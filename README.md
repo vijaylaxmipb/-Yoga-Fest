@@ -1,7 +1,7 @@
 # YOGA FEST
 Milestone project one :Code Institute
 
-This is a yoga fest free event website that helps people to get motivated to do yoga indoor and outdoor for healthy life. The website includes information regarding event like dates,times and location.In this website timing place are provided and also gallery photos which help user to make decsion and register for the event.
+This is a yoga fest free event website that helps people to get motivated to do yoga outdoor for healthy life. The website includes information regarding event like dates,times and location.In this website timing place are provided and also gallery photos which help user to make decsion and register for the event.
 
 ![mock-up](assets/images/readme-amiresposive.PNG)
 
@@ -142,9 +142,9 @@ The site has features of a static website.
 
     ## Credits
 
-   - This site was inspired by Love Runnign walkthrough project & many of pages have used code come from this.Without referring Love Running walkthrough prject from code institute would have been so difficult to produce or build Yoga Fest website.
+   - This site was inspired by Love Running walkthrough project & many of pages have used code come from this.Without referring Love Running walkthrough prject from code institute would have been so difficult to produce or build Yoga Fest website sp professionaly.
    - My mentor, Spencer Barribal, for his input.
-   -
+   
    
 
 
