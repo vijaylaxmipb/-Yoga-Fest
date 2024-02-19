@@ -100,11 +100,11 @@ main {
 }
 /*Form*/
 #register {
-    background-image:url("../images/register_background\ image.jpg");
-    background-size: cover;
+    background-image:url("../images/istockphoto-508099145-612x612.jpg");
+    background-size:cover;
     background-position: 70%;
     padding: 20px 10% 0 10%;
-    flex-grow: 1;
+    flex-grow:1;
     width: auto;
 }
 
