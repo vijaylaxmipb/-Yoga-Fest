@@ -20,7 +20,7 @@ This site is created  for the yoga festival were the user can register and join 
 The wireframes were made with using balsamiq which helped visualise the website.
 ![Wireframe for desktop](assets/images/wireframe-desktop.PNG)
 
-![Wireframe for Mobile](assets/images/wireframe_mobil.PNG)
+![Wireframe for Mobile](assets/images/wireframe-mobil.PNG)
 
 ### Font Choices
 **Fonts:**'Lato' was chosen for the body of the website as it makes the website have a professional look while also maintaining the usefulness of the website.
@@ -40,11 +40,11 @@ The site has features of a static website.
     - The navigation bar is always visible on all pages. In the top right corner are Home,Gallery,Register.
     - The currently active page is underlined in the header.
     - Regardless of the screen format, the navigation bar is constant in one line while being spaced out.
-    ![Navigation Bar](assets/images/Readme_nav_bar.PNG)
+    ![Navigation Bar](assets/images/readme-nav-bar.PNG)
 
  -**Hero Image**
  - The hero image was chosen as i wanted something with a yoga posture with natural background.The image make the users want to scroll down the home page.
- ![Hero Image](assets/images/readme_hero_image.jpg)
+ ![Hero Image](assets/images/readme-hero-image.jpg)
 
  - **Main Section**
     - Headers on all pages to help TO give the content to the users on each page.
@@ -56,21 +56,21 @@ The site has features of a static website.
     - The lightpink greets the user to give them a attractive,warm, calm welcome.
     - The layout is vertical on smaller screens and horizontal to make use of the larger screens such as laptops.
 
-    ![Home Page](assets/images/readme_homepage.PNG)
+    ![Home Page](assets/images/readme-homepage.PNG)
 
 - **Gallery Page**
 
    - The gallery page contains pictures of yoga event.Pictures were used from Pexel and Freepik site.
    - The layout is vertical on smaller screens and horizontal to make use of the larger screens such as laptops.
 
-   ![Gallery Page](assets/images/readme_gallery.PNG)
+   ![Gallery Page](assets/images/readme-gallery.PNG)
 
 - **Register page**
 
     - The register page encourages user to register and leave a comment if they need any information.
     - The image on the register page helps to make the users smile as the image is a yogini posing with a smile in nature it greets user with calm welcome.
 
-   ![Register page](assets/images/readme_register_page.PNG)
+   ![Register page](assets/images/readme-register-page.PNG)
 
 - **Footer**
     - The footer contains three icons which link to external social media pages.
@@ -102,7 +102,7 @@ The site has features of a static website.
    - HTML ([W3C Validator](https://validator.w3.org/))
     - 1 error found in the index page didn't used ""(inverted commas) in the img src,alt.I didnt closed the alt ="group of women outdoor fitness".
     - Solution: added the .inverted commas to alt ="".
-    ![Validation test](assets/images/readme_index_validation%20test.PNG)
+    ![Validation test](assets/images/readme-index-validation%20test.PNG)
 
     - CSS ([Jigsaw](https://jigsaw.w3.org/css-validator/))
     - No errors found within the CSS
@@ -111,11 +111,11 @@ The site has features of a static website.
     - Performance, Accessibility, Best Practices, SEO (Lighthouse Chrome Dev Tools)
     - Accessibility is at 94 which is what the focus was on.
     - Performance is great at 98
-    - ![Lighthouse Rating](assets/images/readme_accessibility.png)
+    - ![Lighthouse Rating](assets/images/readme-accessibility.png)
 
     ### Browser Testing
    - This site has been tested windows 10 desktop version of chrome,Firefox and Edge.
-    ![Browser Testing](assets/images/readme_deployed.PNG)
+    ![Browser Testing](assets/images/readme-deployed.PNG)
    
     ## Deployment
     This site was deployed on Github Pages:
