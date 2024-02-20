@@ -63,7 +63,7 @@ The site has features of a static website.
    - The gallery page contains pictures of yoga event.Pictures were used from Pexel and Freepik site.
    - The layout is vertical on smaller screens and horizontal to make use of the larger screens such as laptops.
 
-   ![Gallery Page](assets/images/readme-gallery.PNG)
+   ![Gallery Page](assets/images/readme-gallery-page.PNG)
 
 - **Register page**
 
