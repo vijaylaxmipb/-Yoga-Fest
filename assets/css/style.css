@@ -224,6 +224,7 @@ main {
 }
 
 /* Media query below 500 px */
+/*suggestion from mentor*/
 
 @media screen and (max-width: 500px) {
     
@@ -315,5 +316,5 @@ main {
     #yoga-photos {
         column-count: 4;
     }
-    
+     
 }
