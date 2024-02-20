@@ -18,7 +18,7 @@ This site is created  for the yoga festival were the user can register and join 
 
 ### Wireframe Designs
 The wireframes were made with using balsamiq which helped visualise the website.
-![Wireframe for desktop](assets/images/Wireframe-desktop.PNG)
+![Wireframe for desktop](assets/images/wireframe-desktop.PNG)
 
 ![Wireframe for Mobile](assets/images/wireframe_mobil.PNG)
 
@@ -44,7 +44,7 @@ The site has features of a static website.
 
  -**Hero Image**
  - The hero image was chosen as i wanted something with a yoga posture with natural background.The image make the users want to scroll down the home page.
- ![Hero Image](assets/images/Readme_hero_image.jpg)
+ ![Hero Image](assets/images/readme_hero_image.jpg)
 
  - **Main Section**
     - Headers on all pages to help TO give the content to the users on each page.
@@ -63,21 +63,21 @@ The site has features of a static website.
    - The gallery page contains pictures of yoga event.Pictures were used from Pexel and Freepik site.
    - The layout is vertical on smaller screens and horizontal to make use of the larger screens such as laptops.
 
-   ![Gallery Page](assets/images/Readme_gallery.PNG)
+   ![Gallery Page](assets/images/readme_gallery.PNG)
 
 - **Register page**
 
     - The register page encourages user to register and leave a comment if they need any information.
     - The image on the register page helps to make the users smile as the image is a yogini posing with a smile in nature it greets user with calm welcome.
 
-   ![Register page](assets/images/Readme_register_page.PNG)
+   ![Register page](assets/images/readme_register_page.PNG)
 
 - **Footer**
     - The footer contains three icons which link to external social media pages.
     - The links will open in new tabs to allow the user easy access to come back to the site.
     - The footer is consitant throughout each page.
 
-    ![Footer](assets/images/Readme-Footer.PNG)
+    ![Footer](assets/images/readme-footer.PNG)
 
     ###  Potential Future Features
      - add another page to include videos
@@ -102,16 +102,16 @@ The site has features of a static website.
    - HTML ([W3C Validator](https://validator.w3.org/))
     - 1 error found in the index page didn't used ""(inverted commas) in the img src,alt.I didnt closed the alt ="group of women outdoor fitness".
     - Solution: added the .inverted commas to alt ="".
-    ![Validation test](assets/images/Readme_index_validation%20test.PNG)
+    ![Validation test](assets/images/readme_index_validation%20test.PNG)
 
     - CSS ([Jigsaw](https://jigsaw.w3.org/css-validator/))
     - No errors found within the CSS
-    ![CSS Validation test](assets/images/Readme-CSS-Validation.PNG)
+    ![CSS Validation test](assets/images/readme-css-validation.PNG)
 
     - Performance, Accessibility, Best Practices, SEO (Lighthouse Chrome Dev Tools)
     - Accessibility is at 94 which is what the focus was on.
     - Performance is great at 98
-    - ![Lighthouse Rating](assets/images/Readme_Accessibility.png)
+    - ![Lighthouse Rating](assets/images/readme_accessibility.png)
 
     ### Browser Testing
    - This site has been tested windows 10 desktop version of chrome,Firefox and Edge.
